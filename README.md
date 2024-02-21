@@ -15,3 +15,6 @@ This repository contains example courses that demonstrate how CasualOS can be us
     -   `$ pnpm install`
 3. Zip a course:
     -   `$ pnpm start zip ab1-cmi5-sandbox`
+
+[nvm-mac]: https://github.com/creationix/nvm
+[nvm-windows]: https://github.com/coreybutler/nvm-windows
