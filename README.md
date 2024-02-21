@@ -14,4 +14,4 @@ This repository contains example courses that demonstrate how CasualOS can be us
     -   `$ corepack enable`
     -   `$ pnpm install`
 3. Zip a course:
-    -   `$ pnpm start zip ab1-basics`
+    -   `$ pnpm start zip ab1-cmi5-sandbox`
