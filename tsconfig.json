@@ -1,0 +1,10 @@
+{
+    "extends": "@tsconfig/node18/tsconfig.json",
+    "include": [
+        "./scripts/**/*.ts"
+    ],
+    "exclude": ["node_modules"],
+    "compilerOptions": {
+        "outDir": "./dist"
+    }
+}

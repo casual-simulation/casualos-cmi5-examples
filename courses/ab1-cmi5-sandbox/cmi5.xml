@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<courseStructure xmlns="https://w3id.org/xapi/profiles/cmi5/v1/CourseStructure.xsd">
+    <course id="https://w3id.org/xapi/cmi5/catapult/lts/course/ab1-basics">
+        <title>
+            <langstring lang="en-US">ab1 cmi5 Sandbox</langstring>
+        </title>
+        <description>
+            <langstring lang="en-US">
+                This course provides a sandbox that demonstrates how cmi5 support works in CasualOS.
+            </langstring>
+        </description>
+    </course>
+    <au id="https://w3id.org/xapi/cmi5/catapult/lts/course/ab1-basics/1" moveOn="CompletedOrPassed" launchMethod="OwnWindow">
+        <title>
+            <langstring lang="en-US">ab1 cmi5 Sandbox - First AU</langstring>
+        </title>
+        <description>
+            <langstring lang="en-US">
+                This course provides a sandbox that demonstrates how cmi5 support works in CasualOS.
+            </langstring>
+        </description>
+        <url>https://ab1.bot/?pattern=kg-cmi5-example&amp;studio=8057ac27-0741-48a7-9ddd-c71b9cbe5fc2&amp;bios=free%20inst</url>
+    </au>
+</courseStructure>

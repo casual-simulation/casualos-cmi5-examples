@@ -1,0 +1,25 @@
+{
+  "name": "@casual-simulation/casualos-cmi5-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./script/cli.ts"
+  },
+  "keywords": ["xAPI", "cmi5"],
+  "author": "Casual Simulation, Inc.",
+  "homepage": "https://casualsimulation.com/",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^6.0.1",
+    "@tsconfig/node18": "^18.2.2",
+    "@types/archiver": "^6.0.2",
+    "commander": "^12.0.0",
+    "ts-node": "^10.9.2"
+  },
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  },
+  "packageManager": "pnpm@8.11.0"
+}
